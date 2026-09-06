@@ -1,0 +1,10 @@
+
+# --- added by cleanup 2026-09-06 ---
+.DS_Store
+**/.DS_Store
+.claude/
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
